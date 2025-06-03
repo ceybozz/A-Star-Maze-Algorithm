@@ -44,4 +44,4 @@ The A* algorithm uses the Manhattan distance as a heuristic to efficiently find 
 
 ## 📝 License
 
-MIT © Your Name
+MIT © Ceyhun Bozkurt
